@@ -15,6 +15,7 @@ export default defineConfig({
         colors: {
             cream: 'hsl(30, 38%, 92%)',
             darkcyan: 'hsl(158, 36%, 37%)',
+            darkercyan: 'hsl(158, 36%, 18%)',
             darkblue: 'hsl(212, 21%, 14%)',
             grayishblue: 'hsl(228, 12%, 48%)'
         }
